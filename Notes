@@ -1,0 +1,9 @@
+1. install all the packages needed
+    - Express - framework
+    - Ejs - templating engine
+    - Mongoose - object modeling for MongoDB database
+    - Passport - help with authenticating with different methods
+    - Connect-flash - allows for passing session flashdata messages
+    - Bcrypt-nodejs - gives ability to hash the password
+2. set up server.js
+    - acts as the glue for the entire application
