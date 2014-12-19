@@ -7,3 +7,7 @@
     - Bcrypt-nodejs - gives ability to hash the password
 2. set up server.js
     - acts as the glue for the entire application
+3. database configuration
+    - grab a mongodb database at modulus.io
+4. routes
+    - flash data is user data that you show once and destroy, used for messages like "Your action has been successful"
